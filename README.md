@@ -199,11 +199,5 @@ You can further improve this pipeline by:
 * Making the pipeline fully dynamic using parameters, file filters, and custom triggers.
 
 
-### 💸 Cost
 
-This entire ADF pipeline runs smoothly at a cost of only **₹30 / 2 days** if you're not on a free tier.
-
----
-
-If you liked this breakdown or found it helpful, feel free to ⭐ the repo!
 
